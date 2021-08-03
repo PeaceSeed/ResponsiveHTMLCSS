@@ -11,6 +11,10 @@
     --text-white:#fff;
 }
 
+body{
+    background-color: var(--main);
+}
+
 li{
     list-style-type: none;
 }
@@ -97,7 +101,7 @@ p{
 
 .footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     border: 1px solid var(--accent);
     padding: 20px;
     line-height: 60px;
