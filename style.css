@@ -23,6 +23,10 @@ a{
     color: var(--text-white);
 }
 
+.container{
+    margin-left: 20%;
+}
+
 .navbar{
     width: 20%;
     background-color: var(--accent);
@@ -47,9 +51,7 @@ a{
 
 /* ---------------------------------------------- */
 
-.container{
-    margin-left: 20%;
-}
+
 
 .one{
     margin: 20px 0 0 0;
